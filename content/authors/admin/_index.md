@@ -1,6 +1,6 @@
 ---
-Display name
-title: "Yuemin Zhang"
+# Display name
+title: Yuemin Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: 
