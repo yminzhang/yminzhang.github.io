@@ -24,7 +24,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: PolyU
+  - name: The Hong Kong Polytechnic University
     # url: https://openai.com/
 
 # Social network links
