@@ -30,16 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 Research'
-  #     subtitle: ''
-  #     text: |-
-  #       My studies focus on differential privacy (DP)—a de facto standard for individual privacy protection—in both centralized and federated settings. Specifically, I design algorithms to address fundamental and practical problems under DP, such as identifying top-*k* frequent items or collecting trajectory data. I am also interested in privacy-preserving machine learning, though I am not an expert :)
+  - block: markdown
+    content:
+      # title: '📚 Research'
+      title: ''
+      subtitle: ''
+      text: |-
+        My studies focus on differential privacy (DP)—a de facto standard for individual privacy protection—in both centralized and federated settings. Specifically, I design algorithms to address fundamental and practical problems under DP, such as identifying top-*k* frequent items or collecting trajectory data. I am also interested in privacy-preserving machine learning, though I am not an expert :)
 
-  #       Feel free to reach out if you’re interested in my research or would like to collaborate 😃
-  #   design:
-  #     columns: '1'
+        Feel free to reach out if you’re interested in my research or would like to collaborate 😃
+    design:
+      columns: '1'
   
   - block: collection
     id: news
@@ -85,10 +86,7 @@ sections:
   - block: collection
     content:
       title: 📄 Publications
-      text: "-
-        My studies focus on differential privacy (DP)—a de facto standard for individual privacy protection—in both centralized and federated settings. Specifically, I design algorithms to address fundamental and practical problems under DP, such as identifying top-*k* frequent items or collecting trajectory data. I am also interested in privacy-preserving machine learning, though I am not an expert :)
-
-        Feel free to reach out if you’re interested in my research or would like to collaborate 😃"
+      text: ""
       filters:
         folders:
           - publication
