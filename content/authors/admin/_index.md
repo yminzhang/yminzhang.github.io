@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Student @ <a href='https://www.astaple.com/'>ASTAPLE Lab</a>
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: ASTAPLE Lab
-  - url: https://www.astaple.com/
+# organizations:
+#   - name: ASTAPLE Lab
+#   - url: https://www.astaple.com/
 organizations:
   - name: The Hong Kong Polytechnic University
     # url: https://openai.com/
