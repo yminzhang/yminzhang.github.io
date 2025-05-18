@@ -36,6 +36,8 @@ sections:
       subtitle: ''
       text: |-
         My studies focus on differential privacy (DP)—a de facto standard for individual privacy protection—in both centralized and federated settings. Specifically, I design algorithms to address fundamental and practical problems under DP, such as identifying top-*k* frequent items or collecting trajectory data. I am also interested in privacy-preserving machine learning, though I am not an expert :)
+
+        Feel free to reach out if you’re interested in my research or would like to collaborate 😃
     design:
       columns: '1'
   
