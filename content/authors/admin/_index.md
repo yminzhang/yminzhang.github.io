@@ -24,6 +24,9 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: ASTAPLE Lab
+  - url: https://www.astaple.com/
+organizations:
   - name: The Hong Kong Polytechnic University
     # url: https://openai.com/
 
@@ -37,6 +40,7 @@ profiles:
     # url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=I1-jFLkAAAAJ&hl
+    label: Google Scholar
 
 # interests:
 #   - Data Privacy (with a focus on differential privacy)
