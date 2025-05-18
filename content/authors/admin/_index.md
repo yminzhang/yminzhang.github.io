@@ -20,14 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student @ <a href='https://www.astaple.com/'>ASTAPLE Lab</a>
+# role: Ph.D. Student @ <a href='https://www.astaple.com/'>ASTAPLE</a>
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
 #   - name: ASTAPLE Lab
 #   - url: https://www.astaple.com/
 organizations:
-  - name: The Hong Kong Polytechnic University
+  - name: Ph.D. student @ PolyU
     # url: https://openai.com/
 
 # Social network links
@@ -179,6 +179,6 @@ profiles:
 ## About Me
 NOTE: This website is under construction.
 
-I am currently a Ph.D. student in the department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University (PolyU), co-supervised by <a href='https://www.qingqingye.net'>Dr. Qingqing Ye</a> and <a href='https://haibohu.org'>Prof. Haibo Hu</a>. I obtained my Master’s degree from the college of Computer Science and Technology at Harbin Engineering University in 2023, advised by <a href='https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=zh-CN&oi=sra'>Prof. Rui Chen</a>. Prior to this, I received my Bachelor’s degree in the department of Computer Science at North China Electric Power University.
+I am currently a Ph.D. student in the department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University (PolyU), co-supervised by <a href='https://www.qingqingye.net'>Dr. Qingqing Ye</a> and <a href='https://haibohu.org'>Prof. Haibo Hu</a> (<a href='https://www.astaple.com/'>ASTAPLE</a>). I obtained my Master’s degree from the college of Computer Science and Technology at Harbin Engineering University in 2023, advised by <a href='https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=zh-CN&oi=sra'>Prof. Rui Chen</a>. Prior to this, I received my Bachelor’s degree in the department of Computer Science at North China Electric Power University.
 
 My research interests include data privacy (with a focus on differential privacy), and trustworthy machine learning.
