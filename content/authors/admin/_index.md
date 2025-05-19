@@ -1,6 +1,6 @@
 ---
 # Display name
-title: '<span title="张跃敏">Yuemin Zhang</span>'
+title: '&lt;span title="张跃敏"&gt;Yuemin Zhang&lt;/span&gt;'
 
 # Name pronunciation (optional)
 name_pronunciation: 
