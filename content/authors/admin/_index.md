@@ -1,8 +1,6 @@
 ---
 # Display name
-# title: Yuemin Zhang
 title: Yuemin Zhang
-
 
 # Name pronunciation (optional)
 name_pronunciation: 
